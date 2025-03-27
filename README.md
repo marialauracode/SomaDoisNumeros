@@ -8,11 +8,11 @@
 * Desenvolvido em Python utilizando Tkinter;
 * Caso o usuário insira valores inválidos, uma mensagem de erro será exibida.
 
-## 🛠 Tecnologias Utilizadas
+### 🛠 Tecnologias Utilizadas
 * Python 3.11+
 * Tkinter
 
-## 📦 Funcionalidades
+### 📦 Funcionalidades
 * Entrada de dois números pelo usuário;
 * Cálculo automático da soma;
 * Exibição do resultado na tela;
